@@ -35,16 +35,16 @@
         "d3"
     ],
     "author": {
-        "name": "Jesper Lekland",
-        "email": "jesper.lekland@push2prod.se"
+        "name": "Kilian Cabrera",
+        "email": "kilianbboy@gmail.com"
     },
-    "homepage": "https://github.com/JesperLekland/react-native-svg-charts",
+    "homepage": "https://github.com/kicaal/react-native-svg-charts",
     "bugs": {
-        "url": "https://github.com/JesperLekland/react-native-svg-charts/issues"
+        "url": "https://github.com/kicaal/react-native-svg-charts/issues"
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/JesperLekland/react-native-svg-charts.git"
+        "url": "git://github.com/kicaal/react-native-svg-charts.git"
     },
     "license": "MIT",
     "dependencies": {
@@ -57,7 +57,7 @@
     "peerDependencies": {
         "react": ">=16.0.0-alpha.12",
         "react-native": ">=0.46.0",
-        "react-native-svg": "^6.2.1||^7.0.3"
+        "react-native-svg": ">=6.2.1"
     },
     "devDependencies": {
         "@react-native-community/bob": "^0.10.0",
